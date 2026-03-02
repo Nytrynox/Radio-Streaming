@@ -13,7 +13,7 @@
     "@react-three/fiber": "^9.4.2",
     "@tensorflow/tfjs": "^4.22.0",
     "idb": "^8.0.3",
-    "jspdf": "^3.0.4",
+    "jspdf": "^4.2.0",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
