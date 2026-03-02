@@ -1,41 +1,36 @@
-# Radio Streaming Application
+<div align="center">
+
+# Radio Streaming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+<br/>
+
+</div>
 
 ## Overview
-A modern internet radio platform built with Next.js, allowing users to tune into various global stations. The application features a persistent audio player, genre categorization, and a sleek, responsive interface for an optimal listening experience.
+Web-based radio player with background streaming.
 
-## Features
--   **Live Streaming**: Support for various audio stream formats (MP3, AAC).
--   **Persistent Player**: Audio continues playing while navigating across different pages.
--   **Station Directory**: Categorized lists of radio stations by genre and region.
--   **Favorites**: User capability to save preferred stations.
--   **Search**: Instant filtering of stations by name or frequency.
+<br/>
 
-## Technology Stack
--   **Framework**: Next.js (React).
--   **Styling**: Tailwind CSS / CSS Modules.
--   **State Management**: React Context API for audio state.
--   **Audio**: HTML5 Audio API.
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
 
-## Usage Flow
-1.  **Browse**: User explores the catalog of radio stations.
-2.  **Select**: Click "Play" on a specific station card.
-3.  **Listen**: Audio begins streaming via the persistent player bar.
-4.  **Control**: User can pause, control volume, or switch stations instantly.
-
-## Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/Nytrynox/Radio-Streaming.git
-
-# Install dependencies
-npm install
-
-# Start the dev server
-npm run dev
-```
+<br/>
 
 ## License
-MIT License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
-## Author
-**Karthik Idikuda**
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
